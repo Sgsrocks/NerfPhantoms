@@ -1,5 +1,5 @@
 # NerfPhantoms
-Bukkit plugin which allows nerfing Phantom mobs introduced in Minecraft 1.13
+Bukkit plugin which allows nerfing Phantom mobs introduced in Minecraft 1.18
 
 [SpigotMC plugin page](https://www.spigotmc.org/resources/nerfphantoms.59218/)
 
